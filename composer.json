@@ -1,0 +1,26 @@
+{
+    "name": "edvaldotorres/mvc-php",
+    "description": "Project following MVC standard with PHP main technology",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Edvaldo Torres",
+        "email": "edvaldodev@gmail.com",
+        "role": "Developer"
+    }],
+    "minimum-stability": "stable",
+    "require": {
+        "coffeecode/datalayer": "1.1.2"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    }
+}
