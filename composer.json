@@ -1,6 +1,6 @@
 {
     "name": "edvaldotorres/mvc-php",
-    "description": "Project following MVC standard with PHP main technology",
+    "description": "Project following MVC standard using some components with the composer having as main objective to practice and improve knowledge with the PHP language.",
     "type": "project",
     "license": "MIT",
     "authors": [{
