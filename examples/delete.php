@@ -1,14 +1,13 @@
-<?php 
+<?php
 
 require __DIR__ . "/../vendor/autoload.php";
 
 use Source\Models\User;
 
-$user = (new User())->findById(5);
+$user = (new User())->findById(1);
 
 if ($user) {
     $user->destroy();
-}else{
+} else {
     var_dump($user);
 }
-

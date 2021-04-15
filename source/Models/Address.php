@@ -16,7 +16,7 @@ class Address extends DataLayer
         $this->user_id = $user->id;
         $this->street = $street;
         $this->number = $number;
-        
+
         return $this;
     }
 }

@@ -6,15 +6,15 @@ use Source\Models\User;
 use Source\Models\Address;
 
 $user = new User();
-$user->first_name = "Edjane";
-$user->last_name = "Torres";
-$user->genre = "F";
+$user->first_name = "Primeiro nome";
+$user->last_name = "Segundo nome";
+$user->genre = "M";
 
-var_dump($addr);
 $user->save();
+var_dump($user);
 
 // $addr = new Address();
 // $addr->add($user, "Nome da rua faker!", "100");
 
-// var_dump($addr);
 // $addr->save();
+// var_dump($addr);
