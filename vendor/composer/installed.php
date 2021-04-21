@@ -1,13 +1,13 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-develop',
+    'version' => 'dev-develop',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'edvaldotorres/mvc-php',
+    'reference' => 'f2c51657fb08d071911c81ad910d0a024bd9368f',
+    'name' => 'edvaldotorres/backend-crud-php',
   ),
   'versions' => 
   array (
@@ -20,14 +20,14 @@
       ),
       'reference' => '928012861d39b855c91485a0f1bd29d202c2fd08',
     ),
-    'edvaldotorres/mvc-php' => 
+    'edvaldotorres/backend-crud-php' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-develop',
+      'version' => 'dev-develop',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'f2c51657fb08d071911c81ad910d0a024bd9368f',
     ),
   ),
 );
