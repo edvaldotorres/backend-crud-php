@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Tempo de geração: 15-Abr-2021 às 18:50
+-- Tempo de geração: 21-Abr-2021 às 05:10
 -- Versão do servidor: 10.4.14-MariaDB
 -- versão do PHP: 7.4.10
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de dados: `crud-php_db`
+-- Banco de dados: `backend_crud_php_db`
 --
 
 -- --------------------------------------------------------

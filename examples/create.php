@@ -13,8 +13,8 @@ $user->genre = "M";
 $user->save();
 var_dump($user);
 
-// $addr = new Address();
-// $addr->add($user, "Nome da rua faker!", "100");
+$addr = new Address();
+$addr->add($user, "Nome da rua faker!", "100");
 
-// $addr->save();
-// var_dump($addr);
+$addr->save();
+var_dump($addr);

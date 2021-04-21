@@ -4,7 +4,7 @@ define("DATA_LAYER_CONFIG", [
     "driver" => "mysql",
     "host" => "localhost",
     "port" => "3306",
-    "dbname" => "crud_php_db",
+    "dbname" => "backend_crud_php_db",
     "username" => "root",
     "passwd" => "",
     "options" => [

@@ -1,6 +1,6 @@
 {
-    "name": "edvaldotorres/mvc-php",
-    "description": "Project that is summarized in a CRUD where it is using only one component for connection and agility with the database with the composer. The main objective of the project is to practice and improve knowledge with the PHP language.",
+    "name": "edvaldotorres/backend-crud-php",
+    "description": "Project that is summarized in a CRUD Banck-End where it is using only one component for connection and agility with the database with the composer. The main objective of the project is to practice and improve knowledge with the PHP language.",
     "type": "project",
     "license": "MIT",
     "authors": [{
